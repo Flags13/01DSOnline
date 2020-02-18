@@ -1,6 +1,6 @@
-# Contenido de la semana 1 - Introducción a Python
+# Contenido de la semana 4 - Python Científico
 
-1. Introducción a la suite de Anaconda
-2. Introducción al uso de Jupyter notebooks 
-3. Introducción al lenguaje Python 
-4. Ejercicios a realizar en Python
+1. Introducción a NumPy
+2. Introducción a Pandas
+3. Ejercicios a realizar en NumPy y Pandas
+4. Autodignóstico de la semana 4
