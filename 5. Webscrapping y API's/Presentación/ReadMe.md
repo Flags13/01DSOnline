@@ -1,6 +1,6 @@
-# Contenido de la semana 1 - Introducción a Python
+# Contenido de la semana 5 - Webscrapping y API's
 
-1. Introducción a la suite de Anaconda
-2. Introducción al uso de Jupyter notebooks 
-3. Introducción al lenguaje Python 
-4. Ejercicios a realizar en Python
+- Webscrapping, Requests y Beautiful Soup 4
+- API's
+- Scrapy y filtrado de datos
+
